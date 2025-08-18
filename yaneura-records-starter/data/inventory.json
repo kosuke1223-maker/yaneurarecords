@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Damaged",
+    "artist": "Black Flag",
+    "year": "1981",
+    "price": "$249",
+    "img": "/cover1.jpg",
+    "sold": false
+  },
+  {
+    "title": "London Calling",
+    "artist": "The Clash",
+    "year": "1979",
+    "price": "$199",
+    "img": "/cover2.jpg",
+    "sold": false
+  },
+  {
+    "title": "Fresh Fruit for Rotting Vegetables",
+    "artist": "Dead Kennedys",
+    "year": "1980",
+    "price": "$179",
+    "img": "/cover3.jpg",
+    "sold": true
+  }
+]

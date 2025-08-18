@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Fun House",
+    "artist": "The Stooges",
+    "year": "1970",
+    "img": "/cover4.jpg",
+    "sold": true
+  },
+  {
+    "title": "Raw Power",
+    "artist": "The Stooges",
+    "year": "1973",
+    "img": "/cover5.jpg",
+    "sold": true
+  }
+]

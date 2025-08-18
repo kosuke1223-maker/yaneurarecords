@@ -1,0 +1,21 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0a0a0a;
+  --fg: #ffffff;
+  --muted: #b3b3b3;
+  --accent: #e5e5e5;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+}
+a { text-decoration: none }
+.container { @apply max-w-4xl mx-auto px-6; }
+.link { @apply underline hover:opacity-80; }
+.btn { @apply inline-flex items-center justify-center px-4 py-2 rounded border border-white/20 hover:bg-white/10 transition; }
+.hairline { @apply border-t border-white/10; }
